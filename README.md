@@ -6,3 +6,7 @@ Some description!
 
 Watch tutorial on YouTube.
 Hi
+
+## Local Development
+
+1. Open index.html in your browser
